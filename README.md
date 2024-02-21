@@ -1,6 +1,6 @@
 # surf-booking-ecuador
 
-Add a surf rental/class booking feature to the Ecuadorian surf school website, using Calendly (https://calendly.com/jeanavocat) for bookings.
+Add a surf rental/class booking feature to the Ecuadorian surf school website, using Calendly for bookings.
 
 ## Collaborate with GPT Engineer
 
